@@ -32,4 +32,3 @@ It simulates how data science can enhance IT Controlling and project management 
 ## 📫 Author
 Created by Julián Correa Daglio    
 - [LinkedIn](https://www.linkedin.com/in/jcorreadaglio/)
-# IT Controlling Dashboard – Cost Optimization
