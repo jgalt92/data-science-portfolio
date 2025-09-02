@@ -1,9 +1,9 @@
-# 💼 Data Science Portfolio – Julián Correa Daglio
+# Data Science Portfolio – Julián Correa Daglio
 
 Welcome! I’m J, a Finance & M&A Controller with 10+ years in Pharma IT, pivoting into **Data Science & Analytics**.  
 This portfolio showcases projects where I combine **business expertise with data-driven methods**.  
 
-## 🚀 Projects
+## Projects
 
 ### 1. IT Controlling Dashboard – Cost Optimization & Anomaly Detection
 - **Tools:** Python (Pandas), SQL, Power BI  
@@ -29,7 +29,7 @@ This portfolio showcases projects where I combine **business expertise with data
 
 ---
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning & SQL  
 - Python (pandas, numpy, scikit-learn, statsmodels, Prophet)  
 - Machine Learning (regression, classification, time-series forecasting)  
@@ -38,6 +38,7 @@ This portfolio showcases projects where I combine **business expertise with data
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - **LinkedIn:** [https://www.linkedin.com/in/jcorreadaglio/]  
 - **Email:** [jn.correa@hotmail.com]  
+
